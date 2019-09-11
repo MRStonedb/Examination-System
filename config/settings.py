@@ -88,7 +88,7 @@ WSGI_APPLICATION = 'config.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'HOST': '192.168.133.128',  # 数据库主机
+        'HOST': '',  # 数据库主机
         'PORT': 3306,  # 数据库端口
         'NAME': 'exam',
         'USER': 'root',
@@ -176,8 +176,8 @@ EMAIL_SSL_KEYFILE = None
 EMAIL_TIMEOUT = None
 EMAIL_HOST = 'smtp.qq.com'
 EMAIL_PORT = 465
-EMAIL_HOST_USER = '2411534723@qq.com' 
-EMAIL_HOST_PASSWORD = 'hryavnyqcfnpeacd'
+EMAIL_HOST_USER = '' 
+EMAIL_HOST_PASSWORD = ''
 # 错误信息邮件设置
 # Email address that error messages come from.
 SERVER_EMAIL = EMAIL_HOST_USER
