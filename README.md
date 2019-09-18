@@ -46,5 +46,10 @@
 
 ​	python manage.py  runserver    开始
 
+![image](https://github.com/MRStonedb/Examination-System/blob/master/images/school_index.jpg)
+![image](https://github.com/MRStonedb/Examination-System/blob/master/images/school_system.jpg)
+![image](https://github.com/MRStonedb/Examination-System/blob/master/images/school_list.jpg)
+![image](https://github.com/MRStonedb/Examination-System/blob/master/images/school_config.jpg)
+![image](https://github.com/MRStonedb/Examination-System/blob/master/images/school_test.jpg)
 
 
